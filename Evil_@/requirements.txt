@@ -1,0 +1,15 @@
+pyqt5
+groq
+cohere
+python-dotenv
+rich
+pywhatkit
+keyboard
+googlesearch-python
+edge_tts
+playsound
+mtranslate
+selenium
+python-json-logger
+webdriver_manager
+Appopener
